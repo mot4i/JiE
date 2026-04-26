@@ -1,7 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/mot4i/JiE/main/",
 
-    "ride": ["jIE/CRASH.wav"],
-    "crash": ["JiE/BIG_RIDE.wav"],
+    "ride" : "JiE/CRASH.wav",
+    "crash" : "JiE/BIG_RIDE.wav",
 
 }
